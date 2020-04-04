@@ -1,0 +1,14 @@
+baseURL = "https://lokal.ninja/bremen"
+languageCode = "de-DE"
+title = "Bremen"
+theme = "ln-base"
+
+disableKinds = ["taxonomy", "taxonomyTerm"]
+
+[outputs]
+  home = ["HTML"]
+
+[params]
+  site = "Lokal Ninja"
+  org = "lokal-ninja"
+  repo = "bremen"
