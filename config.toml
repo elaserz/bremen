@@ -1,4 +1,4 @@
-baseURL = "https://lokal.ninja/bremen"
+baseURL = "https://de.shoogle.net/bremen"
 languageCode = "de-DE"
 title = "Bremen"
 theme = "ln-base"
@@ -10,6 +10,6 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
   section = ["HTML", "JSON"]
 
 [params]
-  site = "Lokal Ninja"
+  site = "Shoogle"
   org = "lokal-ninja"
   repo = "bremen"
